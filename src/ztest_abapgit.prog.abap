@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_ABAPGIT.
 
-WRITE: / 'ABAP is in Git now!'.
+WRITE: / 'Hello World!'.
